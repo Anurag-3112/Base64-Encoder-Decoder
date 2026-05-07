@@ -1,0 +1,23 @@
+.buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.buttons button {
+    /* flex: 1; */
+    width: 20%;
+    /* margin: auto; */
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 90%;
+    /* max-width: 900px; */
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(15px);
+    border-radius: 16px;
+    padding: 20px;
+    color: #000000;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4); 
+}
