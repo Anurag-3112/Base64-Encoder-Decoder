@@ -37,11 +37,14 @@ This tool provides a **simple, distraction-free interface** to handle it instant
 
 ## Preview
 
-### Encode Mode
+### UI
 ![Encode Screenshot](assets/image1.png)
 
+### Encode Mode
+![Encode Screenshot](assets/image2.png)
+
 ### Decode Mode
-![Decode Screenshot](assets/image2.png)
+![Decode Screenshot](assets/image3.png)
 
 ---
 
